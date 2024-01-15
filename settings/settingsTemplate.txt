@@ -1,0 +1,18 @@
+# This is a comment.
+# NOTE: Remember to use quotation marks for string values with spaces.
+
+# Copy this the contents of this file into a new file called "mySettings.txt" in the settings directory
+#   of this project, and change the values appropriatley--do not commit "mySettings.txt".
+
+# NOTE: There should be no spaces on the left or right of the "=" for variable definitions.
+
+# For pg_remake_and_restore_db.bat.
+PSQL_PATH=C:\path\to\psql.exe
+PG_RESTORE_PATH=C:\path\to\pg_restore.exe
+PG_DB_HOST=db_host_name
+PG_DB_PORT=port_for_db
+PG_DB_USERNAME=db_username
+PG_DB_PASSWORD=db_password
+
+# Root path to DB backups directory.
+root_db_backup_dir=D:\path\to\root\db\backup\dir

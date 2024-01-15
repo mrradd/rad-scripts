@@ -1,0 +1,14 @@
+# THIS IS A COMMENT.
+
+# BE CAREFUL MODIFYING THIS FILE
+
+# Adding to this file will give you access to the variables in other scripts if the General Settings are loaded.
+
+# Assumes that all scripts will be run from this directory.
+batScriptsDirectory=.\bats
+
+# Batch files called from other batch files.
+git_update_master_for_repo=git_update_master_for_repo.bat
+git_update_and_make_new_branch_for_repo=git_update_and_make_new_branch_for_repo.bat
+git_new_branch_off_master_for_repo=git_new_branch_off_master_for_repo.bat
+pg_remake_and_restore_db=pg_remake_and_restore_db.bat

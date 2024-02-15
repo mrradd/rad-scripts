@@ -1,3 +1,5 @@
 settings/mySettings.txt
 bats/desktop.ini
 newSettings.txt
+.vs
+tool/**/*.pyc

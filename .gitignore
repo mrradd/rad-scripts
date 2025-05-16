@@ -3,3 +3,5 @@ bats/desktop.ini
 newSettings.txt
 .vs
 tool/**/*.pyc
+bats/_new_be_branch.bat
+bats/_new_fe_branch.bat

@@ -5,3 +5,5 @@ newSettings.txt
 tool/**/*.pyc
 bats/_new_be_branch.bat
 bats/_new_fe_branch.bat
+bats/_new_be_dev_branch.bat
+bats/_new_fe_dev_branch.bat
